@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "categoria": "Cactus",
+        "nombre": "Cactus - ",
+        "marca": "Argelia Cactus",
+        "modelo": "Astrophytum Ornatum",
+        "precio": 800,
+        "stock": 5,
+        "img": "../img/producto1.jpg"
+    },
+    {
+        "id": 2,
+        "idCategoria": 1,
+        "categoria": "Cactus",
+        "nombre": "Cactus - ",
+        "marca": "Argelia Cactus",
+        "modelo": "Echinopsis Eyriesii",
+        "precio": 700,
+        "stock": 12,
+        "img": "../img/producto2.jpg"
+    },
+    {
+        "id": 3,
+        "idCategoria": 1,
+        "categoria": "Cactus",
+        "nombre": "Cactus -  ",
+        "marca": "Argelia Cactus",
+        "modelo": "Eriosyce Senilis",
+        "precio": 850,
+        "stock": 15,
+        "img": "../img/producto3.jpg"
+    },
+    {
+        "id": 4,
+        "idCategoria": 2 ,
+        "categoria": "Interior",
+        "nombre": "P.Interior - ",
+        "marca": "Argelia Cactus",
+        "modelo": "FITTONIA.",
+        "precio": 2500,
+        "stock": 30,
+        "img": "../img/interior1.jpg"
+    },
+    {
+        "id": 5,
+        "idCategoria": 2,
+        "categoria": "Interior",
+        "nombre": "P.Interior - ",
+        "marca": "Argelia Cactus",
+        "modelo": "DRACAENA MASSANGEANA",
+        "precio": 3200,
+        "stock": 7,
+        "img": "../img/interior2.jpg"
+    },
+    {
+        "id": 6,
+        "idCategoria": 2,
+        "categoria": "Interior",
+        "nombre": "P.Interior - ",
+        "marca": "Argelia Cactus",
+        "modelo": "SANSEVIERIA",
+        "precio": 4000,
+        "stock": 20,
+        "img": "../img/interior3.jpg"
+    },
+    {
+        "id": 7,
+        "idCategoria": 3,
+        "categoria": "Suculentas",
+        "nombre": "Suculenta - ",
+        "marca": "Argelia Cactus",
+        "modelo": "Echeveria Monstruosa",
+        "precio": 450,
+        "stock": 10,
+        "img": "../img/suculenta1.jpeg"
+        },
+    {
+        "id": 8,
+        "idCategoria": 3,
+        "categoria": "Suculentas",
+        "nombre": "Suculenta - ",
+        "marca": "Argelia Cactus",
+        "modelo": "Echeveria Seven Night",
+        "precio": 950,
+        "stock": 30,
+        "img": "../img/suculenta2.jpeg"
+    },
+    {
+        "id": 9,
+        "idCategoria": 3,
+        "categoria": "Suculentas",
+        "nombre": "Suculenta - ",
+        "marca": "Argelia Cactus",
+        "modelo": "Echeveria Raffine ",
+        "precio": 3500,
+        "stock": 21,
+        "img": "../img/suculenta3.jpeg"
+    },
+    {
+        "id": 10,
+        "idCategoria": 1,
+        "categoria": "Cactus",
+        "nombre": "Cactus - ",
+        "marca": "Argelia Cactus",
+        "modelo": "Sulcorebutia Rauschii",
+        "precio": 2500,
+        "stock": 25,
+        "img": "../img/producto4.jpg"
+    }
+
+
+]
